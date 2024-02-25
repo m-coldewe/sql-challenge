@@ -1,7 +1,7 @@
 # sql-challenge
 A research project about people whom Pewlett Hackard (a fictional company) employed during the 1980s and 1990s. 
 
-# Project Title
+# Pewlett Hackard Employment Records
 
 ## Overview
 
@@ -28,9 +28,7 @@ I received assistance on this assignment from Tutor Geronimo. He told me a clear
 
 ## Result
 
+This particular assignment did not ask for an analysis of the query results. However, I did notice an unusual number of employees named Hercules within the company among both genders.
 Provide examples of the finished analysis such as graph.
-Explain the results of the analysis.
-
-
 ## Summary
-Conclusions of analysis and final words.
+The data provided contains some unusual values which need further evaluation. Guidance for the evaluation might have existed in the bonus assignment, however, I could not find any information on the bonus assignment. 
